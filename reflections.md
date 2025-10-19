@@ -12,6 +12,7 @@
 > - Hur man bör tänka när man skapar tabeller
 > - Hur man länkar tabeller
 > - Hur man manipulerar tabeller
+> - Valde att använda ÅÄÖ, försökte ta reda på om det var tillåtet och det verkar det vara.
 
 ### Vad som var svårt
 > Tyckte det var svårt att förstå hur främmande nycklar fungerar och hur man ska tänka när man ska länka två tabeller. Tyckte också koncepten med en till många och många till många osv var svårt.
